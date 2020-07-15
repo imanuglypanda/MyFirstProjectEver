@@ -19,6 +19,9 @@ int main()
 	total_revenue = salary + commission;
 	
 	cout << "Your name = " << name << endl;
-	cout << "Total Revenue " << total_revenue << " Bath" << endl;
+	cout << "Total Revenue " << total_revenue << " Bath" << endl << endl;
+
+	cout << "Name	: Tanapat Jeensamran" << endl;
+	cout << "ID	: 63-060216-1106-0" << endl;
 	return 0;
 }
