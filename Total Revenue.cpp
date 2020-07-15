@@ -9,7 +9,6 @@ int main()
 	cout << "Enter Name : ";
 	getline(cin, name);
 	cout << "Enter Salary : ";
-	
 	cin >> salary;
 	cout << "Enter Sale : ";
 	cin >> sale;
